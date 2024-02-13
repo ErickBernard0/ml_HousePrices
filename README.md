@@ -1,4 +1,4 @@
-![weighted avg](img\houses.png)
+![houseprices](img\houses.png)
 
 ### **House Prices - Advanced Regression Techniques**
 
